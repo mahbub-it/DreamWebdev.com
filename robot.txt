@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /private/
 Disallow: /temp-files.html
-Sitemap: https://mahbub-it.github.io
+Sitemap: https://mahbub-it.github.io/DreamWebdev.com/
